@@ -42,7 +42,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Messenger',
 			icon: 'message-circle',
 			link: 'https://messenger.com/',
 		},
@@ -54,21 +54,21 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
+			name: 'Lofi music',
 			icon: 'music',
 			link: 'https://www.lofi.cafe/',
 		},
 		{
 			id: '5',
-			name: 'Manga',
-			icon: 'book',
-			link: 'https://mangago.me',
-		},
-		{
-			id: '6',
 			name: 'Class',
 			icon: 'youtube',
 			link: 'https://bondipathshala.com.bd/my/dashboard',
+		},
+		{
+			id: '6',
+			name: 'Manga',
+			icon: 'book',
+			link: 'https://mangago.me',
 		},
 	],
 
@@ -130,12 +130,12 @@ const CONFIG = {
 					link: 'http://localhost:3000/'
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Bitwarden',
+					link: 'https://vault.bitwarden.com/#/vault',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Yandex',
+					link: 'https://mail.yandex.com/',
 				},
 			],
 		},
@@ -144,20 +144,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Instagram',
+					link: 'https://www.instagram.com/?hl=en',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Facebook',
+					link: 'https://www.facebook.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Cloud',
+					link: 'https://app.treasure.cloud/',
 				},
 			],
 		},
