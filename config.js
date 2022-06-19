@@ -56,7 +56,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Lofi music',
 			icon: 'music',
-			link: 'https://www.lofi.cafe/',
+			link: '',
 		},
 		{
 			id: '5',
@@ -130,12 +130,12 @@ const CONFIG = {
 					link: 'http://localhost:3000/'
 				},
 				{
-					name: 'Bitwarden',
-					link: 'https://vault.bitwarden.com/#/vault',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Yandex',
-					link: 'https://mail.yandex.com/',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox',
 				},
 			],
 		},
@@ -148,16 +148,16 @@ const CONFIG = {
 					link: 'https://twitter.com/',
 				},
 				{
-					name: 'Instagram',
-					link: 'https://www.instagram.com/?hl=en',
+					name: 'Manga',
+					link: 'https://mangago.me',
 				},
 				{
 					name: 'Facebook',
 					link: 'https://www.facebook.com',
 				},
 				{
-					name: 'Cloud',
-					link: 'https://app.treasure.cloud/',
+					name: 'Lofi',
+					link: 'https://www.lofi.cafe/',
 				},
 			],
 		},
